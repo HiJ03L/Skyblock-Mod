@@ -1,1 +1,1 @@
-# Skyblock-Mod
+Go to files and go to the top of the search bar and type %appdata% and press "Minecraft". Go and scroll to the mods folder and drag the sniper mod into the mod folder and run Minecraft. The sniper mod will only work once you have the API key from me
